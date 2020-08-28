@@ -1,4 +1,5 @@
-# Aviator Connectorを使ってUSBケーブルを自作する。
+# USBケーブルを自作する。
+###### ※Aviator Connectorはいずれ使いたいと思っていたので、ついでに書いといた。
 
 Webで「aviator connector usb cable」と検索すると、下のような画像がヒットする。けど、USBケーブルなんてダイソーにでも行けば100円程度で十分使えるモノが手に入るじゃない。いやいや、黒や白のつまらない材料で出来たケーブルなんて使っても面白くないし。せっかくなら自分好みの部品や配色のケーブルが使いたい！ってことで自作のハードルもそんなに高くないので作ってみることにした。
 ![aviator connector](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable1.png?raw=true)
