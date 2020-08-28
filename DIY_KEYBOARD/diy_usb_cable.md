@@ -57,3 +57,6 @@ USB-Aと同じ色の線を同じ箇所にハンダ付けしていく。
 ![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable14.jpeg?raw=true)  
 ライターで炙って完成！！きれい！
 ![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable15.jpeg?raw=true)
+
+### 7.Aviator Connectorの使い方動画
+[youtube](https://www.youtube.com/watch?v=fYRHLyW6Mvs)
