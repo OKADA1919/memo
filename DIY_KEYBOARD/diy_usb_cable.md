@@ -56,4 +56,4 @@ USB-Aと同じ色の線を同じ箇所にハンダ付けしていく。
 伸ばしたやつとノーマルなやつ。長さ3cmにした。
 ![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable14.jpeg?raw=true)  
 ライターで炙って完成！！きれい！
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable15.jpeg?raw=true)   ad
+![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable15.jpeg?raw=true)
