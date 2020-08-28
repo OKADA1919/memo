@@ -30,8 +30,10 @@ Amazonとか登山用品店とかで売ってる。秋葉原のレプマート�
 ### 3.ケーブル完成！！
 ![photo](https://github.com/OKADA1919/memo/blob/images/usbcable3.jpeg?raw=true)
 ### 4.USB-Aコネクタを付ける  
-色の箇所に電線をハンダ付けしていく。  
-まずは予備ハンダ。  
+色の箇所に電線をハンダ付けしていく。
+![photo](https://github.com/OKADA1919/memo/blob/images/usbcable15.jpeg?raw=true)  
+まずは予備ハンダ。
+![photo](https://github.com/OKADA1919/memo/blob/images/usbcable4.jpeg?raw=true)  
 こんな感じ。  
 キャップをはめる。シールド戦はキャップに巻きつけるくらいでいいかも。  
 あんまはみ出てると熱収縮チューブした時に見た目が悪くなるので注意。
