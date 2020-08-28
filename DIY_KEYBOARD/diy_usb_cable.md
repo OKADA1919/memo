@@ -40,10 +40,14 @@ Amazonとか登山用品店とかで売ってる。秋葉原のレプマート�
 あんまりはみ出てると熱収縮チューブした時に見た目が悪くなるので注意。
 ![photo](https://github.com/OKADA1919/memo/blob/images/usbcable6.jpeg?raw=true)  
 ### 5.USB Mini-Bコネクタを付ける  
-USB-Aと同じ色の線を同じ箇所にハンダ付けしていく。  
-わかりづらいけどこんな感じ。  
-キャップはめて完成。  
+USB-Aと同じ色の線を同じ箇所にハンダ付けしていく。
+![photo](https://github.com/OKADA1919/memo/blob/images/usbcable7.jpeg?raw=true)  
+わかりづらいけどこんな感じ。
+![photo](https://github.com/OKADA1919/memo/blob/images/usbcable8.jpeg?raw=true)  
+キャップはめて完成。
+![photo](https://github.com/OKADA1919/memo/blob/images/usbcable9.jpeg?raw=true)   
 良い感じ！  
+![photo](https://github.com/OKADA1919/memo/blob/images/usbcable10.jpeg?raw=true)  
 コネクタを保護するために、熱収縮チューブをはめてく。今回は6mmの物を使ったがUSB-Aコネクタは幅が広いのでラジオペンチなどで広げていく。ラジオペンチの跡が残っても熱収縮すれば消えるので気にしない。  
 伸ばしたやつとノーマルなやつ。長さ3cmにした。  
 ライターで炙って完成！！きれい！
