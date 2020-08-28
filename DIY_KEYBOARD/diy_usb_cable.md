@@ -34,9 +34,11 @@ Amazonとか登山用品店とかで売ってる。秋葉原のレプマート�
 ![photo](https://github.com/OKADA1919/memo/blob/images/usbcable15.jpeg?raw=true)  
 まずは予備ハンダ。
 ![photo](https://github.com/OKADA1919/memo/blob/images/usbcable4.jpeg?raw=true)  
-こんな感じ。  
+こんな感じ。
+![photo](https://github.com/OKADA1919/memo/blob/images/usbcable5.jpeg?raw=true)  
 キャップをはめる。シールド戦はキャップに巻きつけるくらいでいいかも。  
-あんまはみ出てると熱収縮チューブした時に見た目が悪くなるので注意。
+あんまりはみ出てると熱収縮チューブした時に見た目が悪くなるので注意。
+![photo](https://github.com/OKADA1919/memo/blob/images/usbcable6.jpeg?raw=true)  
 ### 5.USB Mini-Bコネクタを付ける  
 USB-Aと同じ色の線を同じ箇所にハンダ付けしていく。  
 わかりづらいけどこんな感じ。  
