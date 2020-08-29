@@ -2,7 +2,7 @@
 ###### ※Aviator Connectorはいずれ使いたいと思っていたので、ついでに書いといた。
 
 Webで「aviator connector usb cable」と検索すると、下のような画像がヒットする。けど、USBケーブルなんてダイソーにでも行けば100円程度で十分使えるモノが手に入るじゃない。いやいや、黒や白のつまらない材料で出来たケーブルなんて使っても面白くないし。せっかくなら自分好みの部品や配色のケーブルが使いたい！ってことで自作のハードルもそんなに高くないので作ってみることにした。
-![aviator connector](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable1.png?raw=true)
+![aviator connector](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable1.png?raw=true)
 
 ## 必要な材料
 - **USBコネクター(type-A / mini-B 共にオス)**  
@@ -24,39 +24,39 @@ Amazonとか登山用品店とかで売ってる。秋葉原のレプマート�
 ## 製作手順
 ### 1.ケーブルとパラコードを準備する  
 パラコード は、伸び縮みするのでケーブルの長さ＋１０センチくらい余裕を持った長さがあると安心。ケーブルは長ければ長いほどパラコードは余分に長いものを用意した方が良いかも。ケーブルの先端は熱収縮チューブで保護してると入れやすいかも。これは必須じゃない。
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable2.jpeg?raw=true)
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable2.jpeg?raw=true)
 ### 2.パラコードの中にある白いの糸を抜いてケールブに差し込んでいく  
 パラコードは押し入れようとする力で縮んでいくので、仕上げに先端を掴んでパラコードを伸ばすと良いかも。
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable3.jpeg?raw=true)
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable3.jpeg?raw=true)
 ### 3.ケーブル完成！！
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable4.jpeg?raw=true)
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable4.jpeg?raw=true)
 ### 4.USB-Aコネクタを付ける  
 色の箇所に電線をハンダ付けしていく。
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable5.jpeg?raw=true)  
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable5.jpeg?raw=true)  
 まずは予備ハンダ。
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable6.jpeg?raw=true)  
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable6.jpeg?raw=true)  
 こんな感じ。
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable7.jpeg?raw=true)  
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable7.jpeg?raw=true)  
 キャップをはめる。シールド戦はキャップに巻きつけるくらいでいいかも。  
 あんまりはみ出てると熱収縮チューブした時に見た目が悪くなるので注意。
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable8.jpeg?raw=true)  
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable8.jpeg?raw=true)  
 ### 5.USB Mini-Bコネクタを付ける  
 USB-Aと同じ色の線を同じ箇所にハンダ付けしていく。
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable9.jpeg?raw=true)  
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable9.jpeg?raw=true)  
 わかりづらいけどこんな感じ。
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable10.jpeg?raw=true)  
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable10.jpeg?raw=true)  
 キャップはめて完成。
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable11.jpeg?raw=true)   
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable11.jpeg?raw=true)   
 良い感じ！  
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable12.jpeg?raw=true)  
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable12.jpeg?raw=true)  
 ### 6.コネクタを保護するために、熱収縮チューブをはめる
 今回は6mmの物を使ったがUSB-Aコネクタは幅が広いのでラジオペンチなどで広げていく。
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable13.jpeg?raw=true)  
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable13.jpeg?raw=true)  
 ラジオペンチの跡が残っても熱収縮すれば消えるので気にしない。  
 伸ばしたやつとノーマルなやつ。長さ3cmにした。
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable14.jpeg?raw=true)  
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable14.jpeg?raw=true)  
 ライターで炙って完成！！きれい！
-![photo](https://github.com/OKADA1919/memo/blob/images/diy_keyboard/cable15.jpeg?raw=true)
+![photo](https://github.com/OKADA1919/memo/blob/master/images/diy_usbcable/cable15.jpeg?raw=true)
 
 ### 7.Aviator Connectorの使い方動画
 [youtube](https://www.youtube.com/watch?v=fYRHLyW6Mvs)
