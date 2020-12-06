@@ -162,9 +162,9 @@ http://ラズパイのIPアドレス
 ```
 ![wordpress](https://github.com/OKADA1919/memo/blob/master/images/Raspberry_pi/wordpress1.png?raw=true)
 言語を選択して、次へ。
-![ifconfig](https://github.com/OKADA1919/memo/blob/master/images/Raspberry_pi/ifconfig2.png?raw=true)
+![ifconfig](https://github.com/OKADA1919/memo/blob/master/images/Raspberry_pi/wordpress2.png?raw=true)
 さあ、始めましょう！をポチ。
-![ifconfig](https://github.com/OKADA1919/memo/blob/master/images/Raspberry_pi/ifconfig3.png?raw=true)
+![ifconfig](https://github.com/OKADA1919/memo/blob/master/images/Raspberry_pi/wordpress3.png?raw=true)
 項目を埋めていく。
 ```
 Database Name:      wordpress
