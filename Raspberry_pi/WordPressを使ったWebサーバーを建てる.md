@@ -173,3 +173,4 @@ Password:           さっき決めたパスワード
 Database Host:      localhost
 Table Prefix:       wp_
 ```
+あとは画面に従って必要事項を入力して完了！
