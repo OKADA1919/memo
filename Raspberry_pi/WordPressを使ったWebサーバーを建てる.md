@@ -84,12 +84,19 @@ WordPressサイトをセットアップするにはデータベースが必要�
 sudo mysql_secure_installation
 ```
 rootのパスワードを聞かれるので入力。
+
 ホンマにこれかと聞かれるのでyと入力。
+
 WordPressのパスワードを入力。
+
 Remove anonymous usersはyと入力。
+
 Disallow root login remotelyはyと入力。
+
 Remove test database and access to itはyと入力。
+
 Reload privilege tables noはyと入力。
+
 これを済ませるとAll done! Thanks for using MariaDB!と表示される。
 
 ### WordPressデータベースを作る
@@ -104,6 +111,14 @@ create database wordpress;
 ```
 Query OK, 1 row affected(0.00sec)
 ```
+以下のおまじないを入力。
+```
+GRANT ALL PRIVILEGES ON wordpress.* TO 'root'@'localhost' IDENTIFIED BY 'さっき設定したパスワード';
+```
+```
+FLUSH PRIVILEGES;
+```
+
 ctrl+DでMariaDBを終了させてラズパイを再起動する。
 ```
 sudo reboot
@@ -141,3 +156,20 @@ sudo reboot
 ```
 
 ### WordPressの設定
+WebブラウザでラズパイのIPアドレスにアクセスする。
+```
+http://ラズパイのIPアドレス
+```
+![wordpress](https://github.com/OKADA1919/memo/blob/master/images/Raspberry_pi/wordpress1.png?raw=true)
+言語を選択して、次へ。
+![ifconfig](https://github.com/OKADA1919/memo/blob/master/images/Raspberry_pi/ifconfig2.png?raw=true)
+さあ、始めましょう！をポチ。
+![ifconfig](https://github.com/OKADA1919/memo/blob/master/images/Raspberry_pi/ifconfig3.png?raw=true)
+項目を埋めていく。
+```
+Database Name:      wordpress
+User Name:          root
+Password:           さっき決めたパスワード
+Database Host:      localhost
+Table Prefix:       wp_
+```
