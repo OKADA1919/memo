@@ -146,7 +146,7 @@ sudo nano /etc/dhcpcd.conf
 ファイルを開いたら、一番下までスクロールし、下記の項目を追加。
 ```
 interface wlan0
-static ip_address=ラズパイのIPアドレス
+static ip_address=ラズパイのIPアドレス/24
 static routers=デフォルトゲートウェイのIPアドレス
 static domain_name_servers=DNSサーバーのIPアドレス
 ```
